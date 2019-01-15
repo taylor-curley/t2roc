@@ -8,8 +8,8 @@ Maintainer: Taylor Curley <taylor.curley@gatech.edu>
 Depends: R (>= 3.3.0)
 Suggests: dplyr
 Description: This package computes and develops type-2 ROC analyses.
-    A series of type-2 analyses relative to psychology are available, including type-2 reciever operating curves (ROCs), 
-    area under the curve (AUC), d-prime (d'), d-sub-a (da), etc.
+ A series of type-2 analyses relative to psychology are available, including type-2 reciever operating curves (ROCs), 
+ area under the curve (AUC), d-prime (d'), d-sub-a (da), etc.
 License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
