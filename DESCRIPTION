@@ -1,0 +1,15 @@
+Package: t2roc
+Type: Package
+Date: 2018-12-22
+Title: Type-2 ROC
+Version: 0.1.1
+Author: Taylor Curley [aut, cre]
+Maintainer: Taylor Curley <taylor.curley@gatech.edu>
+Depends: R (>= 3.3.0)
+Suggests: dplyr
+Description: This package computes and develops type-2 ROC analyses.
+    A series of type-2 analyses relative to psychology are available, including type-2 reciever operating curves (ROCs), 
+    area under the curve (AUC), d-prime (d'), d-sub-a (da), etc.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
